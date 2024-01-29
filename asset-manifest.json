@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/JamilaWebsite/static/css/main.c48a740d.css",
-    "main.js": "/JamilaWebsite/static/js/main.78c898af.js",
+    "main.js": "/JamilaWebsite/static/js/main.3b6c7faa.js",
     "static/js/787.57a387b8.chunk.js": "/JamilaWebsite/static/js/787.57a387b8.chunk.js",
     "static/media/ValentinesBackgroundImage.png": "/JamilaWebsite/static/media/ValentinesBackgroundImage.903e3ff121c985ff9eab.png",
     "static/media/logo.svg": "/JamilaWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/JamilaWebsite/index.html",
     "main.c48a740d.css.map": "/JamilaWebsite/static/css/main.c48a740d.css.map",
-    "main.78c898af.js.map": "/JamilaWebsite/static/js/main.78c898af.js.map",
+    "main.3b6c7faa.js.map": "/JamilaWebsite/static/js/main.3b6c7faa.js.map",
     "787.57a387b8.chunk.js.map": "/JamilaWebsite/static/js/787.57a387b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c48a740d.css",
-    "static/js/main.78c898af.js"
+    "static/js/main.3b6c7faa.js"
   ]
 }
