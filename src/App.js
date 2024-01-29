@@ -8,7 +8,7 @@ function App() {
       <div className="App-header">
         <WelcomePage/>
         <VideoPlayer 
-        src="/ValintiesFinalVideoFinished.mp4" 
+        src="/ValintiesFinalVideoFinished.mp4"
         width="750" 
         height="500" 
       />
