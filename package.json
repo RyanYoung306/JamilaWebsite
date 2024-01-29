@@ -1,5 +1,5 @@
 {
-  "homepage": "http://RyanYoung306.github.io/ValentinesVideo",
+  "homepage": "http://RyanYoung306.github.io/JamilaWebsite",
   "name": "jamila-app",
   "version": "0.1.0",
   "deploy": "gh-pages -d build",
